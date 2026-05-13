@@ -1,14 +1,14 @@
-# 🚀 Presage AI Vitals Hub
+# 🚀 Premium Hackathon Project
 
-A real-time biometric simulation dashboard using the Presage AI SDK to drive user experiences.
+## 🛠️ Technical Skills Implemented
+* Presage AI SDK
+* Biometrics
 
-## 🛠️ Built With
-* GitHub Copilot
-* Modern Web Technologies
-* AI-Powered Workflows
+## ⚙️ Technical Proof
+Integrated the Presage SDK to simulate real-time heart rate and stress metrics to drive dynamic UI changes.
 
 ## 🚀 Deployment
-This project is live via HTMLPreview!
+Live Preview available via HTMLPreview!
 
 ---
-Built for **MLH GenAI Hack Week 2025** 🏆
+🏆 Built for **MLH GenAI Hack Week 2025**
